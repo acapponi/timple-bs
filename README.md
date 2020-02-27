@@ -56,25 +56,26 @@ En caso de querer hacer una actualización recordar salvar el archivo variables,
     </tr>
     <tr>
       <th class="text-nowrap" scope="row"># of columns</th>
-      <td colspan="5">12</td>
+      <td colspan="6">12</td>
     </tr>
     <tr>
       <th class="text-nowrap" scope="row">Gutter width</th>
-      <td colspan="5">30px (15px on each side of a column)</td>
+      <td colspan="6">30px (15px on each side of a column)</td>
     </tr>
     <tr>
       <th class="text-nowrap" scope="row">Nestable</th>
-      <td colspan="5">Yes</td>
+      <td colspan="6">Yes</td>
     </tr>
     <tr>
       <th class="text-nowrap" scope="row">Column ordering</th>
-      <td colspan="5">Yes</td>
+      <td colspan="6">Yes</td>
     </tr>
   </tbody>
 </table>
 
-###For forgetful Agos:
-<code>
+### For forgetful Agos:
+
+```
 sass --watch scss/bootstrap.scss:dist/css/bootstrap.css
 sass --watch scss/bootstrap.scss:dist/css/bootstrap.min.css --style compressed
-</code>
+```
