@@ -1,4 +1,4 @@
-# timple-bs
+# Timple BS
 
 ## Un boost para Bootstrap 🤓
 
