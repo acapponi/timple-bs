@@ -3,6 +3,7 @@
 ## Un boost para Bootstrap 🤓
 
 Versión de Boostrap: 4.3.1
+
 En caso de querer hacer una actualización recordar salvar el archivo variables, para no perder los tamaños modificados de media querys.
 
 <table>
@@ -30,7 +31,7 @@ En caso de querer hacer una actualización recordar salvar el archivo variables,
         <small>≥1300px</small>
       </th>
       <th class="text-center">
-        Extra-extra large<br>
+        Requete large<br>
         <small>≥1820px</small>
       </th>
     </tr>
@@ -72,6 +73,8 @@ En caso de querer hacer una actualización recordar salvar el archivo variables,
     </tr>
   </tbody>
 </table>
+
+
 
 ### For forgetful Agos:
 
