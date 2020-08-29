@@ -1,8 +1,12 @@
-# Timple BS
+# Timple Bootstrap
 
-## Un boost para Bootstrap 🤓
+## A boost for Bootstrap 💪
 
-Versión de Boostrap: 4.3.1
+I improved Bootstrap media query sizes to cover all those screen resolutions that constantly give me a headache.
+
+> Current Boostrap version: [4.3.1](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+---
 
 En caso de querer hacer una actualización recordar salvar el archivo variables, para no perder los tamaños modificados de media querys.
 
@@ -73,12 +77,3 @@ En caso de querer hacer una actualización recordar salvar el archivo variables,
     </tr>
   </tbody>
 </table>
-
-
-
-### For forgetful Agos:
-
-```
-sass --watch scss/bootstrap.scss:dist/css/bootstrap.css
-sass --watch scss/bootstrap.scss:dist/css/bootstrap.min.css --style compressed
-```
