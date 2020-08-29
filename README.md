@@ -6,9 +6,7 @@ I improved Bootstrap media query sizes to cover all those screen resolutions tha
 
 > Current Boostrap version: [4.3.1](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
----
-
-En caso de querer hacer una actualización recordar salvar el archivo variables, para no perder los tamaños modificados de media querys.
+### Grid options
 
 <table>
   <thead>
@@ -35,7 +33,7 @@ En caso de querer hacer una actualización recordar salvar el archivo variables,
         <small>≥1300px</small>
       </th>
       <th class="text-center">
-        Requete large<br>
+        Extra-extra large<br>
         <small>≥1820px</small>
       </th>
     </tr>
@@ -77,3 +75,8 @@ En caso de querer hacer una actualización recordar salvar el archivo variables,
     </tr>
   </tbody>
 </table>
+
+---
+
+En caso de querer hacer una actualización recordar salvar el archivo variables, para no perder los tamaños modificados de media querys.
+
